@@ -13,6 +13,7 @@ I developed the frontend of this project.
 - Photoshop (for editing illustrations)
 - [royalty free illustrations](https://www.freepik.com/author/macrovector)
 ### Demo
-[demo website](https://lighted-headquarter.000webhostapp.com/)
+[demo website](https://psychedemodemo.000webhostapp.com/)
 > free website hosting (some photos have error loading from time2time)
 ### Screenshots
+![home page](.png)
