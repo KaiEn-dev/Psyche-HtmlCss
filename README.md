@@ -16,13 +16,17 @@ I developed the frontend of this project.
 [demo website](https://psychedemodemo.000webhostapp.com/)
 > free website hosting (some photos have error loading from time2time)
 ### Screenshots
-<br/>home page <br/>
+<br/>home page: <br/>
 ![home page](/Screenshots/Home1.png)
-<br/>assessment page<br/>
+<br/>assessment page:<br/>
 ![test page](/Screenshots/Test1.png)
-<br/>personality types page<br/>
+<br/>personality types page:<br/>
 ![types page](/Screenshots/Type1.png)
-<br/>counselling page<br/>
+<br/>counselling page:<br/>
 ![counselling page](/Screenshots/Counselling1.png)
-<br/>about page<br/>
+<br/>about page:<br/>
 ![about page](/Screenshots/About1.png)
+<br/>result page:<br/>
+![result page](/Screenshots/Result1.png)
+<br/>details page:<br/>
+![details page](/Screenshots/Details1.png)
