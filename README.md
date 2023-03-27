@@ -16,7 +16,7 @@ I developed the frontend of this project.
 [demo website](https://psychedemodemo.000webhostapp.com/)
 > free website hosting (some photos have error loading from time2time)
 ### Screenshots
-<br/>home page: <br/>
+>home page
 ![home page](/Screenshots/Home1.png)
 <br/>assessment page:<br/>
 ![test page](/Screenshots/Test1.png)
